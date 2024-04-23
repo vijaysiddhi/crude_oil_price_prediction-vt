@@ -32,9 +32,8 @@ Visualize the predicted prices against the actual prices to assess the model's p
 5)Scikit-learn
 
 # Usage
-# 1)Clone the repository: 
-git clone https://github.com/yourusername/crude_oil_price_prediction.git
-# 2)Install the required libraries:
+
+# 1)Install the required libraries:
 pip install -r requirements.txt
 Run the Jupyter notebook or Python script to train the model and make predictions.
 
