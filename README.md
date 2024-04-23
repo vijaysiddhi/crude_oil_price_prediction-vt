@@ -19,7 +19,8 @@ Select a machine learning model suitable for the task, such as linear regression
 Train the selected model on the preprocessed dataset.
 # 6)Model Evaluation: 
 Evaluate the trained model using appropriate metrics such as mean squared error or R-squared.
-# 7)Prediction: Use the trained model to make predictions on new data.
+# 7)Prediction: 
+Use the trained model to make predictions on new data.
 # 8)Visualization:
 Visualize the predicted prices against the actual prices to assess the model's performance.
 
