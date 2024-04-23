@@ -6,22 +6,22 @@ This project focuses on predicting crude oil prices using machine learning techn
 The dataset used for this project is 'crude-oil-prices.csv', which contains historical crude oil prices. The dataset includes features such as Date, Closing Price, Open Price, High Price, Low Price, and Volume.
 
 # Steps
-#Data Preprocessing:
+## Data Preprocessing:
 The dataset is cleaned and preprocessed to handle missing values, convert date columns, and scale the data if necessary.
 
-# Feature Engineering: 
+## Feature Engineering: 
 Additional features may be created from the existing ones to improve the model's performance.
 
-# Exploratory Data Analysis: 
+## Exploratory Data Analysis: 
 Analyze the dataset to understand the relationships between features and the target variable.
 
-# Model Selection: Overview
+## Model Selection: Overview
 This project focuses on predicting crude oil prices using machine learning techniques. The goal is to develop a model that can accurately predict future prices based on historical data and relevant features.
 
-# Dataset
+## Dataset
 The dataset used for this project is 'crude-oil-prices.csv', which contains historical crude oil prices. The dataset includes features such as Date, Closing Price, Open Price, High Price, Low Price, and Volume.
 
-# Steps
+## Steps
 Data Preprocessing: The dataset is cleaned and preprocessed to handle missing values, convert date columns, and scale the data if necessary.
 Feature Engineering: Additional features may be created from the existing ones to improve the model's performance.
 Exploratory Data Analysis: Analyze the dataset to understand the relationships between features and the target variable.
